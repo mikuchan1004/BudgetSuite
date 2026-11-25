@@ -1,0 +1,8 @@
+{
+  "host": "your-db-host.example.com",
+  "port": 4000,
+  "user": "your-username",
+  "password": "your-password",
+  "database": "budgetsuite",
+  "sslMode": "Required"
+}

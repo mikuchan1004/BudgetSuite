@@ -1,0 +1,15 @@
+# Build artifacts & IDE
+bin/
+obj/
+Publish/
+Publish_Release/
+release_out/
+.vs/
+*.user
+*.pdb
+*.suo
+
+# Sensitive user data & credentials (NEVER commit)
+appsettings.json
+db_config.json
+init_cloud_db.sql
