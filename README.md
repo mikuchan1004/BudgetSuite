@@ -1,11 +1,19 @@
 # 🛡️ Budget Defender & Planner Suite (통합 예산 관리 프로그램)
 
-[![Latest Release](https://img.shields.io/github/v/release/mikuchan1004/BudgetSuite?style=flat-square&label=Release&color=89b4fa)](https://github.com/mikuchan1004/BudgetSuite/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/mikuchan1004/BudgetSuite/total?style=flat-square&label=Downloads&color=a6e3a1)](https://github.com/mikuchan1004/BudgetSuite/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mikuchan1004/BudgetSuite/release.yml?style=flat-square&label=Build)](https://github.com/mikuchan1004/BudgetSuite/actions)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=flat-square&logo=windows)](https://github.com/mikuchan1004/BudgetSuite/releases)
-[![Framework](https://img.shields.io/badge/.NET-8.0%20WPF-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
+<div align="center">
+
+[![Latest Release](https://img.shields.io/github/v/release/mikuchan1004/BudgetSuite?style=for-the-badge&logo=github&logoColor=white&label=RELEASE&color=89B4FA)](https://github.com/mikuchan1004/BudgetSuite/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mikuchan1004/BudgetSuite/total?style=for-the-badge&logo=github&logoColor=white&label=DOWNLOADS&color=A6E3A1)](https://github.com/mikuchan1004/BudgetSuite/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mikuchan1004/BudgetSuite/release.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=BUILD)](https://github.com/mikuchan1004/BudgetSuite/actions)
+[![Platform](https://img.shields.io/badge/WINDOWS-10%2F11%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mikuchan1004/BudgetSuite/releases)
+
+[![Framework](https://img.shields.io/badge/.NET-8.0%20WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Language](https://img.shields.io/badge/C%23-12-239120?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Database](https://img.shields.io/badge/CLOUD%20SYNC-MySQL%20%2F%20TiDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](schema.sql)
+[![AI Collaboration](https://img.shields.io/badge/CO--CREATED%20WITH-GOOGLE%20GEMINI%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![AI Partner](https://img.shields.io/badge/AI%20PARTNER-ANTIGRAVITY%20%26%20LUNA-CBA6F7?style=for-the-badge&logo=googlegemini&logoColor=1E1E2E)](https://github.com/mikuchan1004/BudgetSuite)
+
+</div>
 
 `BudgetManager`(수입 및 고정지출 플래너)와 `BudgetDefender`(일일 실질 예산 방어기 & 지출 장부)를 하나로 통합한 올인원 개인 재정 관리 데스크톱 프로그램입니다.
 
