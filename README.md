@@ -4,6 +4,10 @@
 
 ---
 
+## 🖼️ 스크린샷 
+
+<img width="1122" height="726" alt="image" src="https://github.com/user-attachments/assets/ab9754b4-6d83-4476-8fc7-0619f0f17a48" />
+
 ## 📥 다운로드 및 실행 방법 (일반 사용자용)
 
 1. 우측(또는 상단)의 **[Releases]** 페이지에서 최신 버전의 `BudgetSuite.exe`를 다운로드합니다.
