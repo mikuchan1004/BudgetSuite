@@ -1,5 +1,12 @@
 # 🛡️ Budget Defender & Planner Suite (통합 예산 관리 프로그램)
 
+[![Latest Release](https://img.shields.io/github/v/release/mikuchan1004/BudgetSuite?style=flat-square&label=Release&color=89b4fa)](https://github.com/mikuchan1004/BudgetSuite/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mikuchan1004/BudgetSuite/total?style=flat-square&label=Downloads&color=a6e3a1)](https://github.com/mikuchan1004/BudgetSuite/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mikuchan1004/BudgetSuite/release.yml?style=flat-square&label=Build)](https://github.com/mikuchan1004/BudgetSuite/actions)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=flat-square&logo=windows)](https://github.com/mikuchan1004/BudgetSuite/releases)
+[![Framework](https://img.shields.io/badge/.NET-8.0%20WPF-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
+[![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=flat-square&logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
+
 `BudgetManager`(수입 및 고정지출 플래너)와 `BudgetDefender`(일일 실질 예산 방어기 & 지출 장부)를 하나로 통합한 올인원 개인 재정 관리 데스크톱 프로그램입니다.
 
 ---
